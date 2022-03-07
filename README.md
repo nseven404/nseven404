@@ -69,19 +69,19 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://nseven404.netlify.app" target="blank">
+  <a href="https://nseven404.netlify.app" target="_blank">
     <img width="90" height="90" src="images/ic_n.png" alt="nseven404-blog" />
   </a>
-  <a href="https://www.facebook.com/O.o.HVN.Official.o.O/" target="blank">
+  <a href="https://www.facebook.com/O.o.HVN.Official.o.O/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nseven404-facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UCtrt1eREHSX241Cr1apDMsA" target="blank">
+  <a href="https://www.youtube.com/channel/UCtrt1eREHSX241Cr1apDMsA" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nseven404-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/nseven404/" target="blank">
+  <a href="https://www.linkedin.com/in/nseven404/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nseven404-linkedin" />
   </a>
-  <a href="https://www.instagram.com/n.seven.404/" target="blank">
+  <a href="https://www.instagram.com/n.seven.404/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nseven404-instagram" />
   </a>
   <a href="mailto:namnt998@gmail.com" target="top">
