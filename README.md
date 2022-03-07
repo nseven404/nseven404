@@ -68,7 +68,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://nseven404.netlify.app" target="blank">
-    <img width="90" height="90" src="images/n.png" alt="nseven404-blog" />
+    <img width="90" height="90" src="images/ic_n.png" alt="nseven404-blog" />
   </a>
   <a href="https://www.facebook.com/O.o.HVN.Official.o.O/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nseven404-facebook" />
