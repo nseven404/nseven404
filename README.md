@@ -1,4 +1,4 @@
-<!-- nseven404 -->
+<!-- Developer By NSeven404 -->
 <a href="#" target="_blank">
   <img src="svg/nseven404.svg" width="1200" alt="Click to see the source" />
 </a>
